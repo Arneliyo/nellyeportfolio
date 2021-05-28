@@ -1,0 +1,22 @@
+{
+  "name": "nellyeportfolio",
+  "version": "1.0.0",
+  "description": "this my eportfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arneliyo/nellyeportfolio.git"
+  },
+  "author": "nelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arneliyo/nellyeportfolio/issues"
+  },
+  "homepage": "https://github.com/Arneliyo/nellyeportfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
